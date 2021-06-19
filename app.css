@@ -1,0 +1,8 @@
+h1 {
+    font: 15rem;
+
+}
+
+.letter {
+    transition: color 1000ms;
+}

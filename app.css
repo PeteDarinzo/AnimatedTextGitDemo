@@ -5,11 +5,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: purple;
+    background-color: teal;
 }
 
 h1 {
-    font: 15rem;
+    font: 16rem;
 
 }
 
